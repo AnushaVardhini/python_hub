@@ -1,0 +1,5 @@
+x1=(lambda num:"even" if num%2==0 else "odd")
+print(x1(10))
+print(x1(15))
+print(x1(16))
+print(x1(18))
